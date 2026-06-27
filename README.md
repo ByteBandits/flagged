@@ -100,7 +100,7 @@ Configure the backend at `backend/app/config.py`.
   Email verification
 - ![Mohd Hassan Raza Ansari](https://github.com/hr5116) - 240008019
 
-  Database models
+  Architected the database schema. Created SQLAlchemy models in MariaDB/MySQL for users, teams, challenges, and contest logs, and optimized relational queries for backend API endpoints.
 
 
 ## License <a name="license"></a>
